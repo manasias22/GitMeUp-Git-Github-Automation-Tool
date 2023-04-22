@@ -1,15 +1,12 @@
-# GitmeUp
+# GitMeUp
 just clone this repo typing 
+```bash
+git clone https://github.com/Aditya-Lawate-codez/gitRobo.git
 ```
-git clone https://github.com/manasias22/GitMeUp-Git-Github-Automation-Tool.git
-```
-```
+```bash
 cd gitRobo
 ```
-open this location in your FIle Explorer and copy the <code>commiter.py</code> file to any of your local <strong>uninitialised</strong> directory
-and in the terminal
-
 Run the following command:
-```
-python commiter.py
+```bash
+python miniproj.py
 ```
