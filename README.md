@@ -1,7 +1,7 @@
 # GitmeUp
 just clone this repo typing 
 ```
-git clone https://github.com/Aditya-Lawate-codez/gitRobo.git
+git clone https://github.com/manasias22/GitMeUp-Git-Github-Automation-Tool.git
 ```
 ```
 cd gitRobo
@@ -13,8 +13,3 @@ Run the following command:
 ```
 python commiter.py
 ```
-> Watch the below video (<i>click the image!</i>)
-
-> Its a demo video for all those who wish to contribute
-
-[![Watch the video](https://raw.githubusercontent.com/Aditya-Lawate-codez/gitRobo/main/images/ss.png)](https://clipchamp.com/watch/L2R7H3gN8wj)
