@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+just clone this repo typing
 
-Template Name: Regna
-Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git clone https://github.com/Aditya-Lawate-codez/gitRobo.git
+cd gitRobo
+Run the following command:
+
+python miniproj.py
