@@ -1,4 +1,4 @@
-# gitRobo
+# GitmeUp
 just clone this repo typing 
 ```
 git clone https://github.com/Aditya-Lawate-codez/gitRobo.git
